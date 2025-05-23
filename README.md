@@ -3,17 +3,17 @@
 This Shiny app provides an interactive platform to explore the sentiment and word trends in the State of the Union (SOTU) addresses from various U.S. presidents over time.
 
 ## Summary
--Loads a dataset of SOTU speeches along with sentiment lexicons (bing, afinn, and nrc).
+- Loads a dataset of SOTU speeches along with sentiment lexicons (bing, afinn, and nrc).
 
--Allows users to filter speeches by president and year range.
+- Allows users to filter speeches by president and year range.
 
--Provides options to select the sentiment lexicon for analysis.
+- Provides options to select the sentiment lexicon for analysis.
 
--Tracks the frequency of user-specified words over time.
+- Tracks the frequency of user-specified words over time.
 
--Displays interactive sentiment score bar charts and word trend line plots.
+- Displays interactive sentiment score bar charts and word trend line plots.
 
--Offers data tables showing underlying sentiment scores and word counts.
+- Offers data tables showing underlying sentiment scores and word counts.
 
 ## Features
 Sentiment Analysis
@@ -26,17 +26,17 @@ Customizable Filters
   Users can select any president or all presidents, adjust year ranges, choose sentiment lexicons, and specify words to track.
 
 ## Tools
--R and Shiny for app development and interactivity
+- R and Shiny for app development and interactivity
 
--Tidyverse for data manipulation
+- Tidyverse for data manipulation
 
--Tidytext for text tokenization and sentiment joining
+- Tidytext for text tokenization and sentiment joining
 
--Plotly for interactive visualizations
+- Plotly for interactive visualizations
 
--DT for interactive data tables
+- DT for interactive data tables
 
--Color palettes from RColorBrewer and viridis
+- Color palettes from RColorBrewer and viridis
 
 ## Insights
 Sentiment scores reveal how presidential tone shifts over different administrations and historical periods.

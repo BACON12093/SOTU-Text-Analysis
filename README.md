@@ -18,15 +18,15 @@ This Shiny app provides an interactive platform to explore the sentiment and wor
 ## Features
 Sentiment Analysis
 
-    Computes average sentiment scores per year using the selected lexicon to show positive or negative trends in presidential rhetoric.
+- Computes average sentiment scores per year using the selected lexicon to show positive or negative trends in presidential rhetoric.
 
 Word Trend Analysis
 
-    Tracks the usage of specified keywords across speeches and years, visualizing how topics evolve in political discourse.
+- Tracks the usage of specified keywords across speeches and years, visualizing how topics evolve in political discourse.
 
 Customizable Filters
 
-    Users can select any president or all presidents, adjust year ranges, choose sentiment lexicons, and specify words to track.
+- Users can select any president or all presidents, adjust year ranges, choose sentiment lexicons, and specify words to track.
 
 ## Tools
 - R and Shiny for app development and interactivity
